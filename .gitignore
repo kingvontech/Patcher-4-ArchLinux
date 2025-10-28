@@ -1,0 +1,30 @@
+--- Build & Artifacts ---
+
+Ignore AUR build directories
+
+/pkg/
+/src/
+
+Ignore compiled binaries/scripts
+
+/*.bin
+/a.out
+
+--- Deployment Artifacts ---
+
+Ignore all timestamped backup folders created by deploy-patches.sh
+
+/backup-
+
+Ignore generated bootloader config files
+
+*/grub.cfg
+
+--- Local Git/System Files ---
+
+.DS_Store
+.vscode/
+
+Ignore generic tarball archive
+
+/*.tar.gz
