@@ -38,7 +38,7 @@ Planning
 
 🚀 Deployment
 
-Clone the repository: git clone [REPO_URL]
+Clone the repository: git clone https://github.com/kingvontech/Patcher-4-ArchLinux.git
 
 Navigate to the patch folder for your specific machine (e.g., cd Patcher-4-ArchLinux/MacBookPro8,2-Patches).
 
